@@ -9,5 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "telegraf": "3.38.0"
+  }
 }
